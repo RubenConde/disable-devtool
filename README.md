@@ -4,11 +4,11 @@
 
 # Disable DevTools Script
 
-This script can disable Devtool (`chrome tested`), help to secure your code.
+This script can disable DevTools (`chrome tested`), help to secure your code.
 
 ## Usage
 
-Include one of the code here to last of the body tag in the HTML
+Include one of the codes here at the end of the body tag in your HTML file.
 
 ```js
 <script
